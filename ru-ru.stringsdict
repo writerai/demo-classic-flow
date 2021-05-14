@@ -6,13 +6,27 @@
         <key>NSStringLocalizedFormatKey</key>
         <string>%#@cats@</string>
         <key>rates{d}</key>
-        <string>кошк</string>
+        <string>%ld кошки</string>
         <key>rates{d}</key>
-        <string>кошк FEW</string>
+        <string>%ld кошки</string>
         <key>rates{d}</key>
-        <string>%ld кошки MANY</string>
+        <string>%ld кошки</string>
         <key>rates{d}</key>
-        <string>%ld кошки OTHER</string>
+        <string>%ld кошки</string>
+        </dict>
+    </dict>
+    <key>NUMBER_OF_DAYS_IN_THE_HOTEL</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>Вы отправились в наш отель %#@days@.</string>
+        <key>days{d}</key>
+        <string>%ld дней</string>
+        <key>days{d}</key>
+        <string>%ld дней</string>
+        <key>days{d}</key>
+        <string>%ld дней</string>
+        <key>days{d}</key>
+        <string>%ld дней</string>
         </dict>
     </dict>
 </dict>

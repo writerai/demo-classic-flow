@@ -18,5 +18,21 @@
 			<string>%ld cats</string>
 		</dict>
 	</dict>
+	<key>NUMBER_OF_DAYS_IN_THE_HOTEL</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>You sepent %#@days@ in our hotel</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>a day</string>
+			<key>other</key>
+			<string>%ld days</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
