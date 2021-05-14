@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>NUMBER_OF_CATS</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@cats@</string>
+        <key>rates{d}</key>
+        <string>Katze</string>
+        <key>rates{d}</key>
+        <string>%ld Katzen</string>
+        </dict>
+    </dict>
+</dict>
+</plist>
